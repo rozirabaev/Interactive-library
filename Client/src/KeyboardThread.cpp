@@ -1,5 +1,4 @@
 //
-// Created by kseniia@wincs.cs.bgu.ac.il on 11/01/2020.
 //
 
 #include "KeyboardThread.h"
